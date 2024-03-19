@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>ship.png</file>
+        <file>red_laser.png</file>
+        <file>Background.jpg</file>
+        <file>chicken.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgmusic.wav</file>
+        <file>lasersound.mp3</file>
+        <file>chickenDeath.mp3</file>
+    </qresource>
+</RCC>
